@@ -83,7 +83,7 @@ function Footer() {
       ],
     },
     {
-      title: t("Footer.Privacy-legal"),
+      title: t("Footer.legal"),
       links: [
         {
           name: t("Footer.Privacy-Policy"),
@@ -103,9 +103,9 @@ function Footer() {
   return (
     <div className="text-gray-600 dark:text-white ">
       <footer className="dark:bg-gray-800 ">
-        <div className="max-w-screen-xl px-4 py-16 mx-auto sm:px-6 lg:px-8">
+        <div className="max-w-screen-xl xssm:pl-10 px-4 py-16 mx-auto sm:px-6 lg:px-8">
           <div className="grid grid-cols-1 gap-8 lg:grid-cols-3">
-            <div>
+            <div className="">
               <img
                 src="https://seeklogo.com/images/B/business-company-logo-32B09603F1-seeklogo.com.png"
                 className="mr-5 h-20 w-20  sm:h-16"
@@ -132,7 +132,7 @@ function Footer() {
                 ))}
               </div>
             </div>
-            <div className="grid grid-cols-1 gap-8 lg:col-span-2 sm:grid-cols-2 lg:grid-cols-4">
+            <div className="grid grid-cols-2 gap-8 lg:col-span-2 sm:grid-cols-2 tab:grid-cols-3 lg:grid-cols-4">
               {BottomSection.map((item, i) => (
                 <div key={i + 1}>
                   <p className="font-medium">{item?.title}</p>

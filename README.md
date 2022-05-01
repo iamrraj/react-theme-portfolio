@@ -4,6 +4,13 @@
 
 This is just normal portfolio which allow you to use multiple Theme like **Dark** and **White** as well this support **multiple language** so you can easily switch between language by click on flag icon from Top Nav button, current i have added two language `EN & Pl` But you can simply add another langauge.
 
+- Theme Support
+- MultiLanguage support
+- Responsive Website that support (Laptop, Phone, Tab )
+- Built with React js, Tailwindcss, Javscript
+
+If you like this project please give start and share to another.
+
 ## Available Scripts
 
 In the project directory, you can run:
