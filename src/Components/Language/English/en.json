@@ -1,0 +1,51 @@
+{
+  "translation": {
+    "Home": {
+      "mobile": " Mobile app for",
+      "marketer": "Marketers",
+      "download": "Download now",
+      "Action": "Action",
+      "Contact Us": "Contact Us",
+      "Click_message": "Click below button to contact us",
+      "text": "This Landing is one is one of the easiest and feature packed marketing automation apps in the market. Download it today!"
+    },
+    "Pricing": {},
+    "Nav": {
+      "PORTFOLIO": "Portfolio",
+      "Home": "Home",
+      "About": "About",
+      "Services": "Services",
+      "Contact": "Contact",
+      "Pricing": "Pricing"
+    },
+    "Footer": {
+      "Company": "Company",
+      "About": "About Us",
+      "company_name": "Company Name",
+      "Meet the team": "Meet the team",
+      "History": "History",
+      "Careers": "Careers",
+      "Contact": "Contact",
+      "Web-Development": "Web-Development",
+      "Web-Design": "Web-Design",
+      "Mobile-Development": "Mobile-Development",
+      "Back-end-Development": "Back-end-Development",
+      "Front-end-Development": "Front-end-Development",
+      "DevOps": "DevOps",
+      "Graphic-Design": "Graphic-Design",
+      "UI-UX-Design": "UI-UX-Design",
+      "Copy-Right": "Copy-Right",
+      "Privacy-Policy": "Privacy-Policy",
+      "Terms-Of-Use": "Terms-Of-Use",
+      "Sitemap": "Sitemap",
+      "Help": "Helpful Links",
+      "legal": "Legal",
+      "Faq": "FAQ",
+
+      "Support": "Support",
+      "Blog": "Blog",
+      "Accessibility": "Accessibility",
+      "Disclaimer": "Disclaimer"
+    }
+  }
+}

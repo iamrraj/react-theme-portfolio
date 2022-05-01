@@ -1,0 +1,50 @@
+{
+  "translation": {
+    "Home": {
+      "mobile": "Aplikacja mobilna dla",
+      "marketer": "Marketerzy",
+      "download": "Pobierz teraz",
+      "Action": "Akcja",
+      "Contact Us": "Skontaktuj się z nami",
+      "Click_message": "Kliknij, aby zobaczyć więcej",
+      "text": "To lądowanie jest jednym z najłatwiejszych i bogatych w funkcje aplikacje do automatyzacji marketingu na rynku. Pobierz go już dziś!"
+    },
+    "Pricing": {},
+    "Nav": {
+      "PORTFOLIO": "Portfolio",
+      "Home": "Dom",
+      "About": "O nas",
+      "Services": "Usługi",
+      "Contact": "Kontakt",
+      "Pricing": "Cennik"
+    },
+    "Footer": {
+      "Company": "Firma",
+      "company_name": " nazwa firmy",
+      "About": "Informazioni su",
+      "Meet the team": "Conosci il team",
+      "History": "Storia",
+      "Careers": "Carriere",
+      "Contact": "Contatto",
+      "Web-Development": "Sviluppo Web",
+      "Web-Design": "Design Web",
+      "Mobile-Development": "Sviluppo Mobile",
+      "DevOps": "DevOps",
+      "Back-end-Development": "Sviluppo Back-end",
+      "Front-end-Development": "Sviluppo Front-end",
+      "Graphic-Design": "Design Grafico",
+      "UI-UX-Design": "Design UI/UX",
+      "Copy-Right": "Copyright",
+      "Privacy-Policy": "Polityka prywatności",
+      "Terms-Of-Use": "Regulamin",
+      "Help": "Pomoc",
+      "legal": "Legal",
+      "Sitemap": "Mapa strony",
+      "Faq": "FAQ",
+      "Support": "Supporto",
+      "Blog": "Blog",
+      "Accessibility": "Accessibilità",
+      "Disclaimer": "Disclaimer"
+    }
+  }
+}
