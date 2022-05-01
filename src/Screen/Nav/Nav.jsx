@@ -18,7 +18,6 @@ function Nav() {
 
   const changeLan = (lng) => {
     i18n.changeLanguage(lng);
-    window.location.reload(1);
   };
 
   return (
